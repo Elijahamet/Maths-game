@@ -1,2 +1,2 @@
 # Maths-game
-Helps speeds up your 
+Helps speeds up your level of calculation.
